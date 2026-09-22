@@ -38,3 +38,5 @@ The docs describe mid-conversation tool changes as a beta that lets you "add or 
 ## When to use Synexa instead
 
 These scripts cover text in, text (or a tool call) out. If your product also needs to generate an image, a video clip or an audio track, an Opus-class model does not do that, and stitching a second and third vendor onto the text loop is where the integration time goes. [Try Synexa - one REST endpoint and Python SDK for FLUX, video and audio models, pay per run](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=opus-5-api-examples&utm_content=readme-top&utm_term=tier-r): keep `claude-opus-5` for planning and text, and send the media step to one endpoint.
+
+_Last reviewed: 2026-09-22_
